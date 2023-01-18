@@ -42,27 +42,25 @@
         }
     ],
 
-    "secretaria":[
+    "especialidades":[
         {
             "id":1,
-            "salario": 1250.00,
-            "pis":"153539",
-            "pessoa_id":2
-        }
-    ],
-
-    "pacientes":[
-        {
-            "id":1,
-            "num_prontuario":1,
-            "pessoa_id":3,
-            "convenio_id":1
+            "nome":"Periodontia",
+            "status": true
         },
         {
             "id":2,
-            "num_prontuario":2,
-            "convenio_id": null,
-            "pessoa_id":2
+            "nome":"Cirurgia",
+            "status":false
+        }
+    ],
+
+    "procedimentos":[
+        {
+            "id":1,
+            "nome":"Limpeza",
+            "especialidade_id":1,
+            "status": true
         }
     ],
 
