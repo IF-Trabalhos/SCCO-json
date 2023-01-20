@@ -5,30 +5,24 @@
             "nome": "Giuliano de Souza Leite",
             "cpf": 12345678990,
             "rg": 123456789,
-            "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
             "email":"giuliano@gmail.com",
-            "endereco_id": 1
         },
         {
             "id":2,
             "nome": "Igor Rosa Pinto",
             "cpf": 12345678990,
             "rg": 123456789,
-            "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
             "email":"igorrosa@gmail.com"   ,
-            "endereco_id":1 
         },
         {
             "id":3,
             "nome": "Fernando Souza Pimenta",
             "cpf": 12345678990,
             "rg": 123456789,
-            "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
             "email":"pimenta@gmail.com",
-            "endereco_id":1
         }
     ],
 
