@@ -6,7 +6,7 @@
             "cpf": 12345678990,
             "rg": 123456789,
             "telefone":"32988080905",
-            "email":"giuliano@gmail.com",
+            "email":"giuliano@gmail.com"
         },
         {
             "id":2,
@@ -14,7 +14,7 @@
             "cpf": 12345678990,
             "rg": 123456789,
             "telefone":"32988080905",
-            "email":"igorrosa@gmail.com"   ,
+            "email":"igorrosa@gmail.com" 
         },
         {
             "id":3,
@@ -22,7 +22,7 @@
             "cpf": 12345678990,
             "rg": 123456789,
             "telefone":"32988080905",
-            "email":"pimenta@gmail.com",
+            "email":"pimenta@gmail.com"
         }
     ],
 
