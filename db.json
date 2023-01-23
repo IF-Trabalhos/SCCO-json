@@ -35,8 +35,8 @@
     "consultas":[
         {
             "id":1,
-            "hr_inicial":"1456",
-            "hr_final":1,
+            "hr_inicial":"07:00",
+            "hr_final":"08:00",
             "nome_paciente": "Fernando Souza Pimenta",
             "nome_dentista": "Giuliano Souza Leite"
         }
