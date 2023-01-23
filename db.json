@@ -32,13 +32,13 @@
         }
     ],
 
-    "dentistas":[
+    "consultas":[
         {
             "id":1,
-            "cro":"1456",
-            "pessoa_id":1,
-            "especialidade_id":1,
-            "agenda_id":1
+            "hr_inicial":"1456",
+            "hr_final":1,
+            "nome_paciente": "Fernando Souza Pimenta",
+            "nome_dentista": "Giuliano Souza Leite"
         }
     ],
 
