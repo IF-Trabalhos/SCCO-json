@@ -86,6 +86,21 @@
             "id":2,
             "nome":"Cirurgia",
             "status":false
+        },
+        {
+            "id":3,
+            "nome":"Endodontia",
+            "status": true
+        },
+        {
+            "id":4,
+            "nome":"Ortodontia",
+            "status": true
+        },
+        {
+            "id":5,
+            "nome":"Prótese Dentária",
+            "status": true
         }
     ],
 
