@@ -95,6 +95,30 @@
             "nome":"Limpeza",
             "especialidade_id":1,
             "status": true
+        },
+        {
+            "id":2,
+            "nome":"Tratamento de Canal",
+            "especialidade_id":1,
+            "status": true
+        },
+        {
+            "id":3,
+            "nome":"Tratamento de Cárie",
+            "especialidade_id":1,
+            "status": true
+        },
+        {
+            "id":4,
+            "nome":"Prótese Dentária",
+            "especialidade_id":1,
+            "status": true
+        },
+        {
+            "id":5,
+            "nome":"Extração Dentária",
+            "especialidade_id":1,
+            "status": true
         }
     ],
 
